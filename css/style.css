@@ -81,3 +81,11 @@ overflow: hidden;
   .drag{
     margin-top: 0px!important;
   }
+  #crud{
+    margin-top: 10px;
+    margin-left: 5px;
+  }
+  #cruds{
+    margin-left: 0;
+    margin-left: -60px;
+  }
