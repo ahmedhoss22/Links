@@ -83,9 +83,9 @@ overflow: hidden;
   }
   #crud{
     margin-top: 10px;
-    margin-left: 5px;
+    margin-left: -10px;
   }
   #cruds{
     margin-left: 0;
-    margin-left: -60px;
+    margin-left: -80px;
   }
